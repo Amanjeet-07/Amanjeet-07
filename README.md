@@ -12,7 +12,7 @@
 * 🔭 I’m currently working on Website Development.
 * 🌱 I’m currently learning DSA, CP.
 * 👯 I’m looking to collaborate on website development.
-* 🤔 I’m looking for help with dsa, cp and web dev.
+* 🤔 I’m looking for help with DSA, CP and Web Dev.
 * 📫 How to reach me: <a style="color:#02ccff" href="mailto:amanjeetpani2405@gmail.com">amanjeetpani2405@gmail.com</a>.
 
 **💻 Languages and Tools:**  
