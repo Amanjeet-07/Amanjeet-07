@@ -31,11 +31,20 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height = "20" src = "https://icon-library.com/images/django-icon/django-icon-0.jpg"> </code> -->
 
-😇 My Github Stats:
+**😇 <b>My Github Stats</b>:**
+<br>
+<p align = "center">
+  <a href="https://github.com/Amanjeet-07">
+    <img src = "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanjeet-07&show_icons=true&theme=radical)">
+  </a>
+  <a href="https://github.com/Amanjeet-07">
+    <img src = "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjeet-07&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanjeet-07&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjeet-07&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
