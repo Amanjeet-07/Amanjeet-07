@@ -34,12 +34,8 @@
 **😇 <b>My Github Stats</b>:**
 <br>
 <p align = "center">
-  <a href="https://github.com/Amanjeet-07">
-    <img src = "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanjeet-07&show_icons=true&theme=radical)">
-  </a>
-  <a href="https://github.com/Amanjeet-07">
-    <img src = "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjeet-07&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
-  </a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanjeet-07&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjeet-07&show_icons=true&theme=tokyonight&layout=compact)
 </p>
 
 
