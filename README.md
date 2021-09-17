@@ -32,12 +32,6 @@
 <code><img height = "20" src = "https://icon-library.com/images/django-icon/django-icon-0.jpg"> </code> -->
 
 **😇 <b>My Github Stats</b>:**
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanjeet-07&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjeet-07&show_icons=true&theme=tokyonight&layout=compact)
-
-
-
-
-
-
-
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanjeet-07&show_icons=true&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjeet-07&show_icons=true&theme=tokyonight&layout=compact)
